@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+python-dotenv
+gunicorn
+mercadopago
+psycopg2-binary
+whitenoise
+python-dateutil
